@@ -252,7 +252,8 @@ function create_config( )
       "version",
       "italian_lang",
       "portuguese_lang",
-      "arabic"
+      "arabic",
+      "superwork"
      },
     sudo_users = {136888679},
     admin_users = {},
